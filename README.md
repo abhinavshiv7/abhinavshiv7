@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>BTech CSE Student | Turning caffeine into code since [year]<br>💻 I debug in production and call it "testing in realistic environments"<br>🐛 My code works on my machine ¯_(ツ)_/¯<br>📚 Currently learning everything and mastering nothing something<br>☕ Console.log() is my therapist<br>🎯 Goal: Write code that works AND makes sense (pick one)<br>Tech Stack: Whatever StackOverflow suggests + some prayers 🙏<br>"It's not a bug, it's an undocumented feature" - Me, probably<br><br>📫 Let's connect and pretend we understand async/await together!
+Hi there! 👋<br>BTech CSE Student | Turning caffeine into code since 2023<br>💻 I debug in production and call it "testing in realistic environments"<br>🐛 My code works on my machine ¯_(ツ)_/¯<br>📚 Currently learning everything and mastering nothing something<br>☕ Console.log() is my therapist<br>🎯 Goal: Write code that works AND makes sense (pick one)<br>Tech Stack: Whatever StackOverflow suggests + some prayers 🙏<br>"It's not a bug, it's an undocumented feature" - Me, probably<br><br>📫 Let's connect and pretend we understand async/await together!
 
 
 ## 🌐 Socials:
